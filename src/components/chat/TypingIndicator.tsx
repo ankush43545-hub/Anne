@@ -1,0 +1,3 @@
+export function TypingIndicator() {
+  return <div>Typing...</div>;
+}
